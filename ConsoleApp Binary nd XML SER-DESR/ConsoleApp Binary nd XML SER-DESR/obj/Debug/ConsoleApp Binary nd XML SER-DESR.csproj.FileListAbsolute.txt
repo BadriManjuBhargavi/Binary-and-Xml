@@ -1,0 +1,11 @@
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\bin\Debug\ConsoleApp Binary nd XML SER-DESR.exe.config
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\bin\Debug\ConsoleApp Binary nd XML SER-DESR.exe
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\bin\Debug\ConsoleApp Binary nd XML SER-DESR.pdb
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\bin\Debug\Employee.Lib.dll
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\bin\Debug\Employee.Lib.pdb
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.csproj.AssemblyReference.cache
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.csproj.SuggestedBindingRedirects.cache
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.csproj.CoreCompileInputs.cache
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.csproj.CopyComplete
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.exe
+C:\DAY 21\ConsoleApp Binary nd XML SER-DESR\ConsoleApp Binary nd XML SER-DESR\obj\Debug\ConsoleApp Binary nd XML SER-DESR.pdb

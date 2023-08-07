@@ -1,0 +1,6 @@
+C:\DAY 21\Employee.Lib\Employee.Lib\bin\Debug\Employee.Lib.dll
+C:\DAY 21\Employee.Lib\Employee.Lib\bin\Debug\Employee.Lib.pdb
+C:\DAY 21\Employee.Lib\Employee.Lib\obj\Debug\Employee.Lib.csproj.AssemblyReference.cache
+C:\DAY 21\Employee.Lib\Employee.Lib\obj\Debug\Employee.Lib.csproj.CoreCompileInputs.cache
+C:\DAY 21\Employee.Lib\Employee.Lib\obj\Debug\Employee.Lib.dll
+C:\DAY 21\Employee.Lib\Employee.Lib\obj\Debug\Employee.Lib.pdb
